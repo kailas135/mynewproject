@@ -1,1 +1,2 @@
  This is my test git code
+ New line added
